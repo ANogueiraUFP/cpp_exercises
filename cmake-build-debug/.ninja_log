@@ -1,0 +1,8 @@
+# ninja log v5
+1	731	1648159879463330410	CMakeFiles/c___exercises.dir/main.cpp.o	32ada731462e037d
+3	631	1648159886589611502	CMakeFiles/c___exercises.dir/hello.cpp.o	84c0e4e4215ee367
+632	691	1648159886649409986	c___exercises	a926c32affe4b7a9
+2	740	1648159893729964621	CMakeFiles/c___exercises.dir/hello.cpp.o	84c0e4e4215ee367
+740	815	1648159893807878201	c___exercises	a926c32affe4b7a9
+2	619	1648159961340485853	CMakeFiles/c___exercises.dir/hello.cpp.o	84c0e4e4215ee367
+620	737	1648159961457868710	c___exercises	a926c32affe4b7a9
