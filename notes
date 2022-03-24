@@ -1,0 +1,3 @@
+Const - This indicate that variable is only on read mode and can't be change.
+Overloading functions - functions with same name, nut diff parameters, that bring the possibility to 2 or more
+                        different operations with same function.

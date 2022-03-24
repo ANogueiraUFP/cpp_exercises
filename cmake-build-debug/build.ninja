@@ -78,8 +78,8 @@ build CMakeFiles/c___exercises.dir/main.cpp.o: CXX_COMPILER__c___exercises_Debug
   OBJECT_DIR = CMakeFiles/c___exercises.dir
   OBJECT_FILE_DIR = CMakeFiles/c___exercises.dir
 
-build CMakeFiles/c___exercises.dir/hello.cpp.o: CXX_COMPILER__c___exercises_Debug /Users/anogueira/CLionProjects/c++_exercises/hello.cpp || cmake_object_order_depends_target_c___exercises
-  DEP_FILE = CMakeFiles/c___exercises.dir/hello.cpp.o.d
+build CMakeFiles/c___exercises.dir/exercises.cpp.o: CXX_COMPILER__c___exercises_Debug /Users/anogueira/CLionProjects/c++_exercises/exercises.cpp || cmake_object_order_depends_target_c___exercises
+  DEP_FILE = CMakeFiles/c___exercises.dir/exercises.cpp.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++11
   OBJECT_DIR = CMakeFiles/c___exercises.dir
   OBJECT_FILE_DIR = CMakeFiles/c___exercises.dir
@@ -92,7 +92,7 @@ build CMakeFiles/c___exercises.dir/hello.cpp.o: CXX_COMPILER__c___exercises_Debu
 #############################################
 # Link the executable c___exercises
 
-build c___exercises: CXX_EXECUTABLE_LINKER__c___exercises_Debug CMakeFiles/c___exercises.dir/main.cpp.o CMakeFiles/c___exercises.dir/hello.cpp.o
+build c___exercises: CXX_EXECUTABLE_LINKER__c___exercises_Debug CMakeFiles/c___exercises.dir/main.cpp.o CMakeFiles/c___exercises.dir/exercises.cpp.o
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/c___exercises.dir
   POST_BUILD = :
